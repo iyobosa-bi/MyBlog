@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\Blog\\Blog.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blog\\Blog.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\Blog\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blog\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\Service\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogicLayer\\Service\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\Service\\PostService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogicLayer\\Service\\PostService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\Service\\LikeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogicLayer\\Service\\LikeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\Service\\CommentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogicLayer\\Service\\CommentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\BusinessLogicLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogicLayer\\BusinessLogicLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\UnitOfWorkFolder\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\UnitOfWorkFolder\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\Model\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DomainLayer\\Model\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DomainLayer\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\Model\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DomainLayer\\Model\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\Model\\Like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DomainLayer\\Model\\Like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\LikeDto\\LikeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DomainLayer\\LikeDto\\LikeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\CommentDto\\UpdateCommentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DomainLayer\\CommentDto\\UpdateCommentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\CommentDto\\CreatCommentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DomainLayer\\CommentDto\\CreatCommentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\CommentDto\\CommentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DomainLayer\\CommentDto\\CommentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Repository\\PostRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Repository\\PostRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Repository\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Repository\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Migrations\\20250313150517_FirstMigration.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Migrations\\20250313150517_FirstMigration.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Migrations\\20250313220200_ThirdMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Migrations\\20250313220200_ThirdMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Repository\\LikeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Repository\\LikeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\Blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\DataAccessLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\DataAccessLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\Blog\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blog\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blog.http",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\Blog\\Blog.http",
+              "RelativeDocumentMoniker": "Blog\\Blog.http",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\Blog\\Blog.http",
+              "RelativeToolTip": "Blog\\Blog.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-13T13:53:37.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LikeService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\Service\\LikeService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\LikeService.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\Service\\LikeService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\LikeService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:43:52.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusinessLogicLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeToolTip": "BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T13:43:40.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\CommentDto\\CommentDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\CommentDto\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\CommentDto\\CommentDto.cs",
+              "RelativeToolTip": "DomainLayer\\CommentDto\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:37:21.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Blog\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\Blog\\Program.cs",
+              "RelativeToolTip": "Blog\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:15:42.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\Service\\CommentService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\CommentService.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\Service\\CommentService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\CommentService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:43:55.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\Service\\PostService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\PostService.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\Service\\PostService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\PostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:49:00.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\BusinessLogicLayer\\Service\\UserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:51:23.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Like.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\Model\\Like.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Model\\Like.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\Model\\Like.cs",
+              "RelativeToolTip": "DomainLayer\\Model\\Like.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:37:47.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\Model\\Post.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Model\\Post.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\Model\\Post.cs",
+              "RelativeToolTip": "DomainLayer\\Model\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:37:54.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\Model\\User.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\Model\\User.cs",
+              "RelativeToolTip": "DomainLayer\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:38:06.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\UnitOfWorkFolder\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UnitOfWorkFolder\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\UnitOfWorkFolder\\UnitOfWork.cs",
+              "RelativeToolTip": "DataAccessLayer\\UnitOfWorkFolder\\UnitOfWork.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:37:08.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Model\\Role.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\Model\\Role.cs",
+              "RelativeToolTip": "DomainLayer\\Model\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:41:21.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreatCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\CommentDto\\CreatCommentDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\CommentDto\\CreatCommentDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\CommentDto\\CreatCommentDto.cs",
+              "RelativeToolTip": "DomainLayer\\CommentDto\\CreatCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:37:23.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\CommentDto\\UpdateCommentDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\CommentDto\\UpdateCommentDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\CommentDto\\UpdateCommentDto.cs",
+              "RelativeToolTip": "DomainLayer\\CommentDto\\UpdateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:37:24.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LikeDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\LikeDto\\LikeDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\LikeDto\\LikeDto.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DomainLayer\\LikeDto\\LikeDto.cs",
+              "RelativeToolTip": "DomainLayer\\LikeDto\\LikeDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:37:39.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250313220200_ThirdMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Migrations\\20250313220200_ThirdMigration.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250313220200_ThirdMigration.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Migrations\\20250313220200_ThirdMigration.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250313220200_ThirdMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:27:35.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAASwEcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:25:04.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Repository\\PostRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Repository\\PostRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\PostRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:24:49.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250313150517_FirstMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Migrations\\20250313150517_FirstMigration.Designer.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250313150517_FirstMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Migrations\\20250313150517_FirstMigration.Designer.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250313150517_FirstMigration.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:32:08.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:27:31.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Repository\\LikeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\LikeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\Repository\\LikeRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\LikeRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:20:47.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T13:20:07.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\Blog\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Blog\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\Blog\\appsettings.Development.json",
+              "RelativeToolTip": "Blog\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T13:16:27.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\Blog\\appsettings.json",
+              "RelativeDocumentMoniker": "Blog\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\MyBlog-master (1)\\MyBlog-master\\Blog\\appsettings.json",
+              "RelativeToolTip": "Blog\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T13:15:05.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
