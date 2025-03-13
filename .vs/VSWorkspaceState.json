@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Blog"
+    "\\Blog",
+    "\\Blog\\Properties",
+    "\\DataAccessLayer",
+    "\\DataAccessLayer\\Data",
+    "\\DataAccessLayer\\IRepository",
+    "\\DataAccessLayer\\Migrations",
+    "\\DataAccessLayer\\obj"
   ],
-  "SelectedNode": "\\Blog\\Blog.sln",
   "PreviewInSolutionExplorer": false
 }
